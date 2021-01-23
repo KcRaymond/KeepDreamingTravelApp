@@ -1,31 +1,47 @@
-# Keep Dreaming
+# Keep Dreaming... Travel App
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Description:
 
 This app is designed to help find the best travel destination options based on your preferences. Those include: how much you can spend, the general location you want, the type of vacation you want to have, and whether or not it is kid friendly.
 
-## Motivation
+---
 
-Stuck at home in the middle of a pandemic? Ready to dream up that vacation for when you can travel again but don't know where to go? Well look no further! This app was designed with you in mind. The goal is to give the user a destination based on his or her preferences. Dream away!
+> ## Table of Contents
 
-## Resources
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-- envato.com
-- Photoshop
-- Unslpash
-- Express
-- Express-Handlebars
-- MySql
-- Sequelize
+## Installation:
 
-## Links
+To install necessary dependencies run the following command:
 
-> Gitub: https://sterlingorth.github.io/Keep_Dreaming/
+> npm i
 
-> Source Code: https://github.com/SterlingOrth/Keep_Dreaming.git
+## Usage Information:
 
-### Authors
+This app uses node.js, express, express-handlebars, mysql, sequelize and dotenv. Make sure you have all these modules installed for the app to function properly. Launch the app by typing server.js in your terminal and view in your browser at localhost:8080. Or view it in the Heroku diployed URL.
 
-** Kasey Raymond ~ Github: @KcRaymond
-** Amy Moseman ~ Github: @amoseman1
-** Kristabell Johnson ~ Github: Kristabell74
-** Michael Hutchings ~ Github: MHutchbot
-\*\* Sterling Orth ~ Github: Github: SterlingOrth
+## Contributing Information:
+
+Nothing at this time
+
+## Tests:
+
+To run tests, run the following command:
+
+> n/a
+
+## Questions:
+
+> <img src="public\assets\Final-App-Screenshot.jpg" width="400"></img>
+
+---
+
+> Creator Github account: [Kasey Raymond](https://api.github.com/users/KcRaymond)
+
+> Email Creator: [kaseyleigh1978@gmail.com](mailto:)
