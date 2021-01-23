@@ -25,6 +25,7 @@ To install necessary dependencies run the following command:
 ## Usage Information:
 
 This app uses node.js, express, express-handlebars, mysql, sequelize and dotenv. Make sure you have all these modules installed for the app to function properly. Launch the app by typing server.js in your terminal and view in your browser at localhost:8080. Or view it in the Heroku diployed URL.
+> <img src="public\assets\Final-App-Screenshot.jpg" width="400"></img>
 
 ## Contributing Information:
 
@@ -37,8 +38,6 @@ To run tests, run the following command:
 > n/a
 
 ## Questions:
-
-> <img src="public\assets\Final-App-Screenshot.jpg" width="400"></img>
 
 ---
 
